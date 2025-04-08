@@ -357,11 +357,7 @@ save with `cltr+x` , `Y` + `Enter`
 
 * It can be solve your issue, i think not for low GPU users!
 
-Follow official Docs for more info and Errors!
 
-https://github.com/gensyn-ai/rl-swarm/tree/brian-address-cpu-only-crashes?tab=readme-ov-file#troubleshooting
-
-👉 Join TG for more Updates: https://telegram.me/cryptogg
 
 If U have any issue then open a issue on this repo or Dm me on TG~
 
